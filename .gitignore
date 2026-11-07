@@ -1,0 +1,25 @@
+# API credentials
+.env
+.env.*
+!.env.example
+
+# Confidential assignment material
+data/
+outputs/
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+*.bak
+
+# Local migration and obsolete patches
+Kuku_Groq_Migration_Patch/
+Kuku_Promo_Finder_OpenRouter_Patch/
+
+# Local migration bundles
+Kuku_Groq_Migration_Patch.zip
+Kuku_Promo_Finder_OpenRouter_Patch.zip
+
+# Unfinished solution document
+docs/Kuku_Problem1_Solution_Draft.pdf

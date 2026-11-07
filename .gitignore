@@ -23,3 +23,16 @@ Kuku_Promo_Finder_OpenRouter_Patch.zip
 
 # Unfinished solution document
 docs/Kuku_Problem1_Solution_Draft.pdf
+
+# Local submission files - never upload to GitHub
+Kuku_Problem1_Raw_Outputs.zip
+
+# Local deployment bundles
+Kuku_Streamlit_Deploy_Bundle.zip
+Kuku_Streamlit_Deploy_Bundle/
+Kuku_Editorial_Dashboard_Theme_Refresh.zip
+Kuku_Editorial_Dashboard_Theme_Refresh/
+
+# Local helper documents
+DEPLOY_GUIDE.md
+UI_THEME_UPDATE.md
